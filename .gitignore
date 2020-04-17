@@ -97,3 +97,6 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Visual Studio Code
+.vscode/
